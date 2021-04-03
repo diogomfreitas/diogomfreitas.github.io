@@ -10015,6 +10015,14 @@ p.lead {
   font-size: 1.5rem;
 }
 
+.img-profile-mobile {
+  display: flex;
+  margin: auto auto 0;
+  max-width: 12rem;
+  max-height: 12rem;
+  border: 0.5rem solid rgba(22, 135, 167, 0.2);
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
